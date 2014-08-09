@@ -1,0 +1,14 @@
+# Output products list for <squareroot>
+squareroot.asy
+squareroot.gise
+squareroot.ngc
+squareroot.sym
+squareroot.v
+squareroot.veo
+squareroot.xco
+squareroot.xise
+squareroot\doc\cordic_ds249.pdf
+squareroot\doc\cordic_v4_0_vinfo.html
+squareroot_flist.txt
+squareroot_readme.txt
+squareroot_xmdf.tcl

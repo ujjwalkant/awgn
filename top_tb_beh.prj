@@ -1,0 +1,8 @@
+verilog work "ipcore_dir/sine.v"
+verilog work "ipcore_dir/squarerut.v"
+verilog work "log.v"
+verilog work "lfsr2.v"
+verilog work "LFSR1.v"
+verilog work "top.v"
+verilog work "top_tb.v"
+verilog work "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"

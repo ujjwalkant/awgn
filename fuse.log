@@ -1,0 +1,51 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Matha-pachhi/VLSI/projects/awgn/top_tb_isim_beh.exe" -prj "E:/Matha-pachhi/VLSI/projects/awgn/top_tb_beh.prj" "work.top_tb" "work.glbl" 
+ISim P.68d (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Matha-pachhi/VLSI/projects/awgn/ipcore_dir/sine.v" into library work
+Analyzing Verilog file "E:/Matha-pachhi/VLSI/projects/awgn/ipcore_dir/squarerut.v" into library work
+WARNING:HDLCompiler:687 - "E:/Matha-pachhi/VLSI/projects/awgn/ipcore_dir/squarerut.v" Line 1952: Illegal redeclaration of module <glbl>.
+Analyzing Verilog file "E:/Matha-pachhi/VLSI/projects/awgn/log.v" into library work
+Analyzing Verilog file "E:/Matha-pachhi/VLSI/projects/awgn/lfsr2.v" into library work
+Analyzing Verilog file "E:/Matha-pachhi/VLSI/projects/awgn/LFSR1.v" into library work
+Analyzing Verilog file "E:/Matha-pachhi/VLSI/projects/awgn/top.v" into library work
+Analyzing Verilog file "E:/Matha-pachhi/VLSI/projects/awgn/top_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v" into library work
+WARNING:HDLCompiler:687 - "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v" Line 5: Illegal redeclaration of module <glbl>.
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 107896 KB
+Fuse CPU Usage: 1372 ms
+Compiling module lfsr
+Compiling module lfsr2
+Compiling module p_encoder8to3
+Compiling module p_encoder48to6
+Compiling module LOG
+Compiling module VCC
+Compiling module GND
+Compiling module FDR
+Compiling module FDRE
+Compiling module LUT6(INIT=64'b111111101111011101...
+Compiling module LUT5(INIT=32'b100110010001100010...
+Compiling module LUT4(INIT=16'b1000000000000010)
+Compiling module LUT3(INIT=8'b01000110)
+Compiling module LUT2(INIT=4'b0110)
+Compiling module INV
+Compiling module SRLC16E
+Compiling module FDE
+Compiling module LUT1(INIT=2'b10)
+Compiling module FD
+Compiling module MUXCY
+Compiling module XORCY
+Compiling module sine
+Compiling module squarerut
+Compiling module top
+Compiling module top_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 16 sub-compilation(s) to finish...
+Compiled 41 Verilog Units
+Built simulation executable E:/Matha-pachhi/VLSI/projects/awgn/top_tb_isim_beh.exe
+Fuse Memory Usage: 113508 KB
+Fuse CPU Usage: 2089 ms

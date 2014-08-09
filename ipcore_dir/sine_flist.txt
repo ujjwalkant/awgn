@@ -1,0 +1,15 @@
+# Output products list for <sine>
+_xmsgs\pn_parser.xmsgs
+sine.asy
+sine.gise
+sine.ngc
+sine.sym
+sine.v
+sine.veo
+sine.xco
+sine.xise
+sine\doc\cordic_ds249.pdf
+sine\doc\cordic_v4_0_vinfo.html
+sine_flist.txt
+sine_readme.txt
+sine_xmdf.tcl

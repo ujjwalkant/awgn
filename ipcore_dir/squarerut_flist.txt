@@ -1,0 +1,15 @@
+# Output products list for <squarerut>
+_xmsgs\pn_parser.xmsgs
+squarerut.asy
+squarerut.gise
+squarerut.ngc
+squarerut.sym
+squarerut.v
+squarerut.veo
+squarerut.xco
+squarerut.xise
+squarerut\doc\cordic_ds249.pdf
+squarerut\doc\cordic_v4_0_vinfo.html
+squarerut_flist.txt
+squarerut_readme.txt
+squarerut_xmdf.tcl
